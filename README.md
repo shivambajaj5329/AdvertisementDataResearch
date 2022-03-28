@@ -1,6 +1,6 @@
 # AdvertisementDataResearch
 
-Clone repository
-/n cd into directory
-npm install
-npm run dev
+<br /> Clone repository
+<br /> cd into directory
+<br /> npm install
+<br /> npm run dev
